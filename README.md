@@ -43,6 +43,8 @@ Elektronika LCD games
 
 -Ночные Воришки, Nochnyye Vorishki, Nocni złodziejaszkowie, Night Thieves
 
+-Ночные Воришки (Версия 2), Nochnyye Vorishki (Versiya 2), Nocni złodziejaszkowie (Wersja 2), Night Thieves (Version 2)
+
 -Ну, погоди!, Nu, pogodi!, No, poczekaj!, Well, Just You Wait!
 
 -Охота, Okhota, Polowanie, Hunting
