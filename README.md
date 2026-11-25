@@ -3,6 +3,8 @@ Elektronika LCD games
 
 (-Russian translation, Latin transcription, Polish translation, English translation)
 
+-Часы-будильник, Czasy-budilnik, Zegar-budzik, Clock-alarm
+
 -Автослалом, Avtoslalom, Autoslalom, Autocross
 
 -Автослалом (Версия 2), Avtoslalom (Versiya 2), Autoslalom (Wersja 2), Autocross (Version 2)
