@@ -5,7 +5,7 @@ Elektronika LCD games
 
 -Часы-будильник, Czasy-budilnik, Zegar-budzik, Clock-alarm
 
--Автослалом, Avtoslalom, Autoslalom, Autocross
+-Автослалом (Версия 1), Avtoslalom (Versiya 1), Autoslalom (Wersja 1), Autocross (Version 1)
 
 -Автослалом (Версия 2), Avtoslalom (Versiya 2), Autoslalom (Wersja 2), Autocross (Version 2)
 
@@ -43,7 +43,7 @@ Elektronika LCD games
 
 -Ниндзя-черепашки, Nindzya-cherepashki, Wojownicze Żółwie Ninja, Teenage Mutant Ninja Turtles
 
--Ночные Воришки, Nochnyye Vorishki, Nocni złodziejaszkowie, Night Thieves
+-Ночные Воришки (Версия 1), Nochnyye Vorishki (Versiya 1), Nocni złodziejaszkowie (Wersja 1), Night Thieves (Version 1)
 
 -Ночные Воришки (Версия 2), Nochnyye Vorishki (Versiya 2), Nocni złodziejaszkowie (Wersja 2), Night Thieves (Version 2)
 
